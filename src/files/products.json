@@ -1,0 +1,123 @@
+[
+	{
+		"title": "Procesador i3",
+		"description": "Microprocesador Intel",
+		"code": "pro001",
+		"price": 70000,
+		"status": true,
+		"stock": 23,
+		"category": "CPU",
+		"thumbnail": "./pi3.png",
+		"id": 1
+	},
+	{
+		"title": "Procesador i5",
+		"description": "Microprocesador Intel",
+		"code": "pro002",
+		"price": 80000,
+		"status": true,
+		"stock": 11,
+		"category": "CPU",
+		"thumbnail": "./pi5.png",
+		"id": 2
+	},
+	{
+		"title": "Procesador i7",
+		"description": "Microprocesador Intel",
+		"code": "pro003",
+		"price": 90000,
+		"status": true,
+		"stock": 7,
+		"category": "CPU",
+		"thumbnail": "./pi7.png",
+		"id": 3
+	},
+	{
+		"title": "Procesador Ryzen3",
+		"description": "Microprocesador AMD",
+		"code": "pro004",
+		"price": 65000,
+		"status": true,
+		"stock": 16,
+		"category": "CPU",
+		"thumbnail": "./pr3.png",
+		"id": 4
+	},
+	{
+		"title": "Procesador Ryzen5",
+		"description": "Microprocesador AMD",
+		"code": "pro005",
+		"price": 75000,
+		"status": true,
+		"stock": 5,
+		"category": "CPU",
+		"thumbnail": "./pr5.png",
+		"id": 5
+	},
+	{
+		"title": "Procesador Ryzen7",
+		"description": "Microprocesador AMD",
+		"code": "pro006",
+		"price": 85000,
+		"status": true,
+		"stock": 34,
+		"category": "CPU",
+		"thumbnail": "./pr7.png",
+		"id": 6
+	},
+	{
+		"title": "Memoria Ram Crucial 8GB",
+		"description": "Memoria Ram 2666 MHZ",
+		"code": "pro007",
+		"price": 35500,
+		"status": true,
+		"stock": 150,
+		"category": "Memory",
+		"thumbnail": "./ram8g.png",
+		"id": 7
+	},
+	{
+		"title": "Memoria Ram Corsair 16GB",
+		"description": "Memoria Ram 3200 MHZ",
+		"code": "pro008",
+		"price": 67400,
+		"status": true,
+		"stock": 235,
+		"category": "Memory",
+		"thumbnail": "./ram16g.png",
+		"id": 8
+	},
+	{
+		"title": "ASUS GTX 1050ti",
+		"description": "Placa de video NVIDIA",
+		"code": "pro009",
+		"price": 158000,
+		"status": true,
+		"stock": 3,
+		"category": "GPU",
+		"thumbnail": "./gtx1050ti.png",
+		"id": 9
+	},
+	{
+		"title": "Zotac RX 550",
+		"description": "Placa de video RADEON",
+		"code": "pro010",
+		"price": 162000,
+		"status": true,
+		"stock": 6,
+		"category": "GPU",
+		"thumbnail": "./rx5050.png",
+		"id": 10
+	},
+	{
+		"stock": 23,
+		"id": 11,
+		"title": "Procesador solo",
+		"description": "Microprocesador Intel",
+		"code": "pro100",
+		"price": 70,
+		"status": true,
+		"category": "cpu",
+		"thumbnail": ""
+	}
+]
